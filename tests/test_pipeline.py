@@ -8,7 +8,7 @@ from air_alerts.pipeline import build_project
 
 
 class PipelineTests(unittest.TestCase):
-    def test_build_project_creates_submission_artifacts_from_sample_data(self) -> None:
+    def test_build_project_creates_project_artifacts_from_sample_data(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
             sample = root / "sample.csv"

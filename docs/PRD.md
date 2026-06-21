@@ -21,7 +21,6 @@ Build a small Python project that downloads public air raid alert history, norma
 9. As a researcher, I want focus-region views for Kyiv City, Kharkivska, Sumska, Donetska, and Lvivska oblasts, so that the national picture has concrete examples.
 10. As a developer, I want tests for interval merging and night-hour calculations, so that the most error-prone time-series logic is protected.
 11. As a reviewer, I want a baseline model and backtest metrics, so that I can see a careful analytical benchmark without unsafe claims.
-12. As a reviewer, I want an AI conversation log, so that the process and iteration quality are visible.
 
 ## Implementation Decisions
 
