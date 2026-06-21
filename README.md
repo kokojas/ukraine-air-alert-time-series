@@ -17,6 +17,15 @@ Air raid alerts are not only discrete events. They create a time burden: interru
 - `reports/air_alerts_report.docx`: readable DOCX report with charts and a method diagram
 - `data/processed/`: generated daily metrics, summaries, and baseline predictions
 
+## Demo Outputs
+
+- [Live static dashboard](https://kokojas.github.io/ukraine-air-alert-time-series/) generated from `docs/index.html`
+- [Dashboard HTML source](https://github.com/kokojas/ukraine-air-alert-time-series/blob/main/docs/index.html)
+- [DOCX report](https://github.com/kokojas/ukraine-air-alert-time-series/blob/main/reports/air_alerts_report.docx) with charts, key findings, method notes, and limitations
+- [Daily oblast metrics CSV](https://github.com/kokojas/ukraine-air-alert-time-series/blob/main/data/processed/daily_oblast_metrics.csv)
+- [Last-12-month summary CSV](https://github.com/kokojas/ukraine-air-alert-time-series/blob/main/data/processed/last12_oblast_summary.csv)
+- [Next-day baseline predictions CSV](https://github.com/kokojas/ukraine-air-alert-time-series/blob/main/data/processed/next_day_baseline_predictions.csv)
+
 ## Data Source
 
 Primary source: Vadimkin Ukrainian air raid sirens dataset, `volunteer_data_en.csv`.
@@ -92,13 +101,3 @@ Run:
 ```bash
 PYTHONPATH=src python -m unittest discover -s tests
 ```
-
-## Submission Notes
-
-KSE Stage 2 asks for three things:
-
-1. Public GitHub repository with final working Python code.
-2. Complete AI conversation log.
-3. Short reflection of around 100 words.
-
-The reflection draft is in `reports/reflection.txt`. The complete AI log should be exported from the AI tool/session used to build the project.
