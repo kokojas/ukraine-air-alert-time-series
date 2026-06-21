@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Downloaded source data can be regenerated.
+data/raw/*.csv
+
+# Local notebooks may create checkpoints.
+.ipynb_checkpoints/

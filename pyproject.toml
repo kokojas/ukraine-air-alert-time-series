@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ukraine-air-alert-time-series"
+version = "0.1.0"
+description = "Time-series analysis of air raid alert burden in Ukraine."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "python-docx>=1.0",
+  "Pillow>=10.0"
+]
+
+[project.scripts]
+air-alerts = "air_alerts.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

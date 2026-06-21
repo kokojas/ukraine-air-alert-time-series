@@ -1,0 +1,26 @@
+oblast,target_date,predicted_alert_minutes,predicted_alert_hours,model,model_note
+Chernihivska oblast,2026-06-22,332.62,5.54,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Kharkivska oblast,2026-06-22,317.33,5.29,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Sumska oblast,2026-06-22,314.75,5.25,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Dnipropetrovska oblast,2026-06-22,259.88,4.33,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Poltavska oblast,2026-06-22,247.78,4.13,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Zaporizka oblast,2026-06-22,232.64,3.88,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Volynska oblast,2026-06-22,227.04,3.78,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Donetska oblast,2026-06-22,209.69,3.49,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Mykolaivska oblast,2026-06-22,154.15,2.57,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Khersonska oblast,2026-06-22,151.47,2.52,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Kyivska oblast,2026-06-22,123.08,2.05,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Kirovohradska oblast,2026-06-22,122.54,2.04,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Odeska oblast,2026-06-22,106.31,1.77,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Cherkaska oblast,2026-06-22,102.41,1.71,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Zhytomyrska oblast,2026-06-22,93.87,1.56,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Lvivska oblast,2026-06-22,67.13,1.12,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Khmelnytska oblast,2026-06-22,57.38,0.96,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Rivnenska oblast,2026-06-22,56.47,0.94,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Kyiv City,2026-06-22,53.54,0.89,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Chernivetska oblast,2026-06-22,52.91,0.88,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Vinnytska oblast,2026-06-22,49.16,0.82,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Ternopilska oblast,2026-06-22,44.59,0.74,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Zakarpatska oblast,2026-06-22,38.57,0.64,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Ivano-Frankivska oblast,2026-06-22,13.88,0.23,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.
+Luhanska oblast,2026-06-22,0.0,0.0,weighted_recent_weekday_baseline,Analytical benchmark only; not for life-safety decisions.

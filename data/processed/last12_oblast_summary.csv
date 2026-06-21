@@ -1,0 +1,26 @@
+oblast,total_alert_hours,total_night_hours,alert_count,active_days,night_share,avg_alert_hours_per_active_day
+Donetska oblast,2256.151,1166.846,1512,365,0.517,6.181
+Zaporizka oblast,1887.595,804.329,2247,365,0.426,5.171
+Sumska oblast,1847.911,784.896,3109,365,0.425,5.063
+Kharkivska oblast,1829.346,709.158,4160,365,0.388,5.012
+Chernihivska oblast,1711.249,621.223,2375,365,0.363,4.688
+Dnipropetrovska oblast,1468.659,648.802,3845,365,0.442,4.024
+Volynska oblast,1193.397,502.46,993,365,0.421,3.27
+Poltavska oblast,1163.822,482.403,1804,365,0.414,3.189
+Khersonska oblast,1106.318,577.825,1849,365,0.522,3.031
+Mykolaivska oblast,992.74,395.32,1873,365,0.398,2.72
+Kirovohradska oblast,761.651,382.656,1144,365,0.502,2.087
+Odeska oblast,664.155,306.838,1402,365,0.462,1.82
+Kyivska oblast,647.494,271.27,1165,365,0.419,1.774
+Cherkaska oblast,556.745,255.89,928,365,0.46,1.525
+Lvivska oblast,550.252,252.034,613,365,0.458,1.508
+Zhytomyrska oblast,408.721,215.209,532,365,0.527,1.12
+Chernivetska oblast,386.717,187.887,159,365,0.486,1.059
+Kyiv City,351.132,177.357,591,365,0.505,0.962
+Zakarpatska oblast,279.988,126.787,143,365,0.453,0.767
+Khmelnytska oblast,270.275,135.75,220,365,0.502,0.74
+Ternopilska oblast,254.488,127.479,162,365,0.501,0.697
+Vinnytska oblast,243.296,153.048,335,365,0.629,0.667
+Rivnenska oblast,231.763,133.056,260,365,0.574,0.635
+Ivano-Frankivska oblast,108.008,61.3,157,365,0.568,0.296
+Luhanska oblast,0.0,0.0,0,365,0.0,0.0
